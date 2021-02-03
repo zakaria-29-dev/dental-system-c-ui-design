@@ -1,0 +1,16 @@
+C:\Users\root17\source\repos\dental_sys\dental_sys\bin\Debug\dental_sys.exe.config
+C:\Users\root17\source\repos\dental_sys\dental_sys\bin\Debug\dental_sys.exe
+C:\Users\root17\source\repos\dental_sys\dental_sys\bin\Debug\dental_sys.pdb
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.csprojAssemblyReference.cache
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Form1.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Properties.Resources.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.csproj.GenerateResource.cache
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.csproj.CoreCompileInputs.cache
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.csproj.CopyComplete
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.exe
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.pdb
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Loading.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Principal.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Dashboard.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Patient.resources
+C:\Users\root17\source\repos\dental_sys\dental_sys\obj\Debug\dental_sys.Messages.resources
